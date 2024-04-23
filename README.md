@@ -41,6 +41,7 @@ dataset["workex"]=dataset["workex"].astype('category')
 dataset["specialisation"]=dataset["specialisation"].astype('category')
 dataset["status"]=dataset["status"].astype('category')
 dataset["hsc_s"]=dataset["hsc_s"].astype('category')
+
 dataset.dtypes
 ```
 ```
