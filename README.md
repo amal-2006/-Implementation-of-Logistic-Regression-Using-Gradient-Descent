@@ -99,6 +99,30 @@ y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
 ## Output:
+### Read the file and display
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/1f016359-1822-4e61-a4bd-2e42b29b2193)
+
+### Categorizing columns
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/803932f9-6766-466c-b982-4a5d4a7f8116)
+
+### Labelling columns and displaying dataset
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/3652a512-7da7-424c-9669-89e9451fbdcd)
+
+### Display dependent variable
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/e7b177aa-1745-4be5-8193-8ffd8f529775)
+
+### Printing accuracy
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/98088e79-96c4-4b0c-a6fe-9375a8f80849)
+
+### Printing Y
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/4ad464f1-fd31-45c4-8b6e-200e80a56472)
+
+### Printing y_prednew
+![image](https://github.com/amal-2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148410730/66ed7bc1-6b4b-4fea-a1e6-7bca7dad684b)
+
+
+
+
 
 
 ## Result:
