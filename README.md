@@ -23,7 +23,6 @@ RegisterNumber:  AMALJOSH MAADHAV J
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
 
 
 ## Result:
