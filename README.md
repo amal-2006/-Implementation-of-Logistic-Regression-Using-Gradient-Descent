@@ -29,7 +29,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 dataset=pd.read_csv("Placement_Data.csv")
+
 dataset
+
 dataset=dataset.drop("sl_no",axis=1)
 dataset=dataset.drop("salary",axis=1)
 
